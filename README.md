@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Kittiphot Banchong-aksorn! 👋
 
-<!--
-**kittiphot2547/kittiphot2547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Electrical Engineering Student** at **Kasetsart University (Sriracha Campus)**.
+I bridge the gap between hardware and software, with expertise in Engineering logic, PLC control, and Application development.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Java and Assembly Language**
+- ⚡ **Engineering Skills:** PLC Programming & Escalator Control Systems
+- 🕒 **Availability:** Mon - Fri, 09:00 - 16:30
+- 📫 Contact me: **[kittiphot2547@gmail.com](mailto:kittiphot2547@gmail.com)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Languages & Tools
+
+**Software Development**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-%23555555.svg?style=for-the-badge&logo=asm&logoColor=white)
+
+**Hardware & Automation**
+![PLC](https://img.shields.io/badge/PLC-Automation-red?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🍔 Food Ordering App** | A mobile application for browsing menus and customizing orders designed to streamline the ordering process. | `Python` `[Framework]` |
+| **🎫 Concert Ticket App** | A booking platform for checking schedules and securing concert tickets. | `C++` `[Library]` |
+| **🪜 Escalator Control System** | Designed and programmed PLC logic to control escalator operations, focusing on motor efficiency and safety protocols. | `PLC` `Ladder Logic` |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=usernameตรงนี้&show_icons=true&theme=radical" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usernameตรงนี้&layout=compact&theme=radical" alt="top languages" />
+</p>
