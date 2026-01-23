@@ -33,10 +33,3 @@ I bridge the gap between hardware and software, with expertise in Engineering lo
 | **🪜 Escalator Control System** | Designed and programmed PLC logic to control escalator operations, focusing on motor efficiency and safety protocols. | `PLC` `Ladder Logic` |
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usernameตรงนี้&show_icons=true&theme=radical" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usernameตรงนี้&layout=compact&theme=radical" alt="top languages" />
-</p>
