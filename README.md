@@ -6,7 +6,7 @@ I bridge the gap between hardware and software, with expertise in Engineering lo
 - 🌱 I’m currently learning **Java and Assembly Language**
 - ⚡ **Engineering Skills:** PLC Programming & Escalator Control Systems
 - 🕒 **Availability:** Mon - Fri, 09:00 - 16:30
-- 📫 Contact me: **[kittiphot2547@gmail.com](mailto:kittiphot2547@gmail.com)**
+- 📫 Contact me: **[kittiphot.b@ku.th](mailto:kittiphot2547@gmail.com)**
 
 ---
 
