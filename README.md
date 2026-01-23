@@ -28,8 +28,8 @@ I bridge the gap between hardware and software, with expertise in Engineering lo
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🍔 Food Ordering App** | A mobile application for browsing menus and customizing orders designed to streamline the ordering process. | `Python` `[Framework]` |
-| **🎫 Concert Ticket App** | A booking platform for checking schedules and securing concert tickets. | `C++` `[Library]` |
+| **🍔 Food Ordering App** | A mobile application for browsing menus and customizing orders designed to streamline the ordering process. | `Python` |
+| **🎫 Concert Ticket App** | A booking platform for checking schedules and securing concert tickets. | `C++` |
 | **🪜 Escalator Control System** | Designed and programmed PLC logic to control escalator operations, focusing on motor efficiency and safety protocols. | `PLC` `Ladder Logic` |
 
 ---
