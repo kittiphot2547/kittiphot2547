@@ -1,4 +1,4 @@
-# Hi there, I'm Kittiphot Banchong-aksorn! 👋
+# Hi there, I'm Kittiphot Banchongaksorn! 👋
 
 I'm an **Electrical Engineering Student** at **Kasetsart University (Sriracha Campus)**.
 I bridge the gap between hardware and software, with expertise in Engineering logic, PLC control, and Application development.
