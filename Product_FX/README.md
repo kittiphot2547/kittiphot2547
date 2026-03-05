@@ -32,18 +32,17 @@
    เปิด Terminal หรือ Command Prompt แล้วพิมพ์คำสั่ง:
    ```bash
    pip install transformers torch
-------------------------------------------------------------
-📊 ตัวอย่างการทำงานและผลลัพธ์ (Examples & Output)
-------------------------------------------------------------
+## 📊 ตัวอย่างการทำงานและผลลัพธ์ (Examples & Output)
+
 เมื่อรันโปรแกรมและป้อนพาดหัวข่าว AI จะทำการวิเคราะห์และสรุปผลออกมาเป็น Dashboard ดังตัวอย่างต่อไปนี้:
 
-🟢 ตัวอย่างที่ 1: ข่าวเชิงบวก (Hawkish / ค่าเงินแข็งค่า)
-Input (พิมพ์พาดหัวข่าว):
+### 🟢 ตัวอย่างที่ 1: ข่าวเชิงบวก (Hawkish / ค่าเงินแข็งค่า)
+**Input (พิมพ์พาดหัวข่าว):**
+> `Federal Reserve surprises markets with a 50 basis point rate hike to combat sticky inflation.`
 
-Federal Reserve surprises markets with a 50 basis point rate hike to combat sticky inflation.
+**Output (ผลลัพธ์หน้าจอ):**
 
-Output (ผลลัพธ์หน้าจอ):
-
+```text
 ------------------------------------------------------------
 📊 REPORT: ผลการวิเคราะห์จาก FX-MACRO AI
 ------------------------------------------------------------
