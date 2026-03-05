@@ -32,7 +32,8 @@
    เปิด Terminal หรือ Command Prompt แล้วพิมพ์คำสั่ง:
    ```bash
    pip install transformers torch
-   📊 ตัวอย่างการทำงาน (Example Output)
+
+📊 ตัวอย่างการทำงาน (Example Output)
 Input (ใส่พาดหัวข่าว):
 
 Federal Reserve surprises markets with a 50 basis point rate hike to combat sticky inflation.
