@@ -7,7 +7,7 @@ I bridge the gap between hardware and software, with expertise in Engineering lo
 - ⚡ **Engineering Skills:** PLC Programming & Escalator Control Systems
 - 🕒 **Availability:** Mon - Fri, 09:00 - 16:30
 - 📫 Contact me: **[kittiphot.b@ku.th](mailto:kittiphot2547@gmail.com)**
-
+.
 ---
 
 ### 🛠 Languages & Tools
